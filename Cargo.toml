@@ -1,0 +1,6 @@
+[package]
+name = "rust-fizz-buzz"
+version = "0.1.0"
+authors = ["Yuji Hanamura <yuji.developer@gmail.com>"]
+
+[dependencies]
